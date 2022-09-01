@@ -10,8 +10,8 @@ Welcome to CS 110. I look forward to working with you this semester. This is you
 
 ## Student Info - MUST BE COMPLETED
 
-Preferred Name:
+Preferred Name: Chuning 
 
-Discord username:
+Discord username: saixelloss
 
-REPL url:
+REPL url: 
